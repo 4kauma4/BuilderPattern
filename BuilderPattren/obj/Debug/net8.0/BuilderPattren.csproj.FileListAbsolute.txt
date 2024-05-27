@@ -1,0 +1,14 @@
+C:\Users\1goph\Desktop\Голкова Н.В\BuilderPattren\bin\Debug\net8.0\BuilderPattren.exe
+C:\Users\1goph\Desktop\Голкова Н.В\BuilderPattren\bin\Debug\net8.0\BuilderPattren.deps.json
+C:\Users\1goph\Desktop\Голкова Н.В\BuilderPattren\bin\Debug\net8.0\BuilderPattren.runtimeconfig.json
+C:\Users\1goph\Desktop\Голкова Н.В\BuilderPattren\bin\Debug\net8.0\BuilderPattren.dll
+C:\Users\1goph\Desktop\Голкова Н.В\BuilderPattren\bin\Debug\net8.0\BuilderPattren.pdb
+C:\Users\1goph\Desktop\Голкова Н.В\BuilderPattren\obj\Debug\net8.0\BuilderPattren.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1goph\Desktop\Голкова Н.В\BuilderPattren\obj\Debug\net8.0\BuilderPattren.AssemblyInfoInputs.cache
+C:\Users\1goph\Desktop\Голкова Н.В\BuilderPattren\obj\Debug\net8.0\BuilderPattren.AssemblyInfo.cs
+C:\Users\1goph\Desktop\Голкова Н.В\BuilderPattren\obj\Debug\net8.0\BuilderPattren.csproj.CoreCompileInputs.cache
+C:\Users\1goph\Desktop\Голкова Н.В\BuilderPattren\obj\Debug\net8.0\BuilderPattren.dll
+C:\Users\1goph\Desktop\Голкова Н.В\BuilderPattren\obj\Debug\net8.0\refint\BuilderPattren.dll
+C:\Users\1goph\Desktop\Голкова Н.В\BuilderPattren\obj\Debug\net8.0\BuilderPattren.pdb
+C:\Users\1goph\Desktop\Голкова Н.В\BuilderPattren\obj\Debug\net8.0\BuilderPattren.genruntimeconfig.cache
+C:\Users\1goph\Desktop\Голкова Н.В\BuilderPattren\obj\Debug\net8.0\ref\BuilderPattren.dll
